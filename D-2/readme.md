@@ -13,6 +13,8 @@ Tutorial
 ![Screenshot (39)](https://github.com/saisri-damacharla/DevOps-Learning/assets/162766163/53f45400-f693-4482-b66d-061bc25dd327)
 
 2) Create User Groups for Similar User policies
-<img width="946" alt="image" src="https://github.com/saisri-damacharla/DevOps-Learning/assets/162766163/aa25fb0a-7d88-4bd2-89da-74cfc0902f99">
+   
+  <img width="946" alt="image" src="https://github.com/saisri-damacharla/DevOps-Learning/assets/162766163/aa25fb0a-7d88-4bd2-89da-74cfc0902f99">
 
-<img width="881" alt="image" src="https://github.com/saisri-damacharla/DevOps-Learning/assets/162766163/c4363fbf-de35-4f02-a125-65604ead0941">
+
+  <img width="881" alt="image" src="https://github.com/saisri-damacharla/DevOps-Learning/assets/162766163/c4363fbf-de35-4f02-a125-65604ead0941">
