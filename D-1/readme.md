@@ -1,1 +1,15 @@
+# Day-1
+What is Cloud?
+Distributed Collection of servers that host software and infrastructure which can be accessed over internet.
+
+Public V/S Private Cloud:
+Setup with in the boundaries of an organisation is called Private Cloud (you & your organisation alone)
+Public cloud - you request resources and service providers (AWS, AZURE, GCP) provides resources
+
+Why is public cloud popular?
+* Maintainence of Data Center is overburden
+* Public cloud provides most of the services
+
+AWS is better than other cloud service providers as it has largerst market share
+
 
